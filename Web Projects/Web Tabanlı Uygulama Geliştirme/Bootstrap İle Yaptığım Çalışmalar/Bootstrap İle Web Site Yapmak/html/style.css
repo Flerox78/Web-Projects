@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.boyut {
+	height: 500px;
+	width: 100%;
+}
+body {
+	background-color: black; /* Arka planı siyah yapar */
+	color: white; /* Metin rengini beyaz yapar */
+}
+/* Kartlar için stil ekleme */
+.card {
+	background-color: #333; /* Kartları koyu gri yapar, böylece arka planla uyumlu olur */
+	color: white; /* Kartlardaki metinleri beyaz yapar */
+	/* Navbar düzenlemesi */
+}

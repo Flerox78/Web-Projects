@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ana {
+    width:960px;
+    height:auto;
+    margin:auto; /* ana divi sayfada yatayda ortalar */
+}
+
+
+.menu {
+    width:640px;
+    height:60px;
+    background-color:#363;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.arama {
+    width:320px;
+    height:60px;
+	background-color:#0F6;
+    float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.slider {
+	background-color:#33C;
+	width:960px;
+	height:250px;
+	margin-top:5px;
+	margin-bottom:5px;
+	}
+
+.icerik1 {
+	background-color:#39C;
+	width:320px;
+	height:320px;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	
+	
+	}
+
+
+.icerik2 {
+	background-color:#3FC;
+	width:320px;
+	height:320px;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	}
+
+.icerik3 {
+	background-color:#63F;
+	width:320px;
+	height:320px;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	}
+	
+	
+.alt-icerik1 {
+    width:480px;
+    height:80px;
+    background-color:#666;
+    color:#FFF;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.alt-icerik2 {
+	width:480px;
+    height:80px;
+    background-color:#C66;
+    color:#FFF;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+	
+	}
+	
+	
+.alt-icerik3 {
+	width:480px;
+    height:80px;
+    background-color:#36C;
+    color:#FFF;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+	
+	
+	}
+	
+.alt-icerik4 {
+	width:480px;
+    height:80px;
+    background-color:#C66;
+    color:#FFF;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+	
+	
+	}
+.taban {
+	width:960px;
+	height:100px;
+	background-color:#333;
+	
+	
+	
+	
+	}

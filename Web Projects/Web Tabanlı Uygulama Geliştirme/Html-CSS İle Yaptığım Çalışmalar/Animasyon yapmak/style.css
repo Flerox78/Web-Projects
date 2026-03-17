@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.kutu{
+	width: 150px;
+	height: 150px;
+	background-color: #900;
+	position: absolute;
+	animation: uygulama2 5s;
+	top:10px;
+	}
+@keyframes uygulama {
+	from{top:0px;}
+	to{top:350px; background-color:#FF0;}
+	
+	}
+@keyframes uygulama2{
+	0% {top:10px; left:10px;}
+	25%{top:10px; left:700px; border-radius:50%; background-color:#3C9;}
+	50%{top:550px; left:700px; background-color:#9C0;}
+	75%{top:550px; left:10px; background-color:#363;}
+	100%{top:10px; left:10px; background-color:#900;}
+	
+	}

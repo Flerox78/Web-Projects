@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+	}
+
+.üst {
+	width:1200px;
+	height:200px;
+	background-color:#61779C;
+
+	
+	}
+	
+.solüstorta {
+	width:600px;
+	height:500px;
+	background-color:#679DD3;
+	float:left;
+	}
+	
+.sağüstorta {
+	width:600px;
+	height:500px;
+	background-color:#ABCCFA;
+	display:flex;
+	}
+	
+.solaltorta {
+	width:600px;
+	height:150px;
+	background-color:#835252;
+	float:left;
+	
+	}
+	
+.sağaltorta {
+	
+	width:600px;
+	height:150px;
+	background-color:#CEA6A4;
+	display:flex;
+	}
+
+.alt {
+	width:1200px;
+	height:100px;
+	background-color:#535760;
+	display:flex;
+	
+	}

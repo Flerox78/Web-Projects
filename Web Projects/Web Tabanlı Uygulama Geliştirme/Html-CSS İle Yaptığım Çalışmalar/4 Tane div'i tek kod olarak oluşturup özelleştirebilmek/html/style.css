@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ana {
+    width:960px;
+    height:auto;
+    margin:auto; /* ana divi sayfada yatayda ortalar */
+}
+
+.ustsol {
+    width:260px;
+    height:200px;
+    background-color:#C00;
+	color:#FFF;
+	float:left;
+}
+
+.ustsag {
+    width:700px;
+    height:200px;
+    background-color:#363;
+    color:#FFF;
+	float:left;
+}
+
+.icerik {
+    width:240px;
+    height:240px;
+	color:#FFF;
+    float:left;
+}
+.mavibg {
+	
+	background-color:#06C;
+	
+	}
+
+.morbg {
+	background-color:#90F;	
+	
+	}
+
+
+.saribg {
+	background-color:#FF0;
+	
+	}
+
+.pembebg {
+	background-color:#F0F;
+	
+	}
+	
+	
+.alt {
+    width:100%;
+    height:75px;
+    background-color:#666;
+    color:#FFF;
+	float:left;
+}

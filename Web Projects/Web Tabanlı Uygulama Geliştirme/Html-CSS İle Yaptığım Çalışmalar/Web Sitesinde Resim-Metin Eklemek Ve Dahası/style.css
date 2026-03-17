@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#3C6;
+	margin:100px;
+	margin:100px 100px;
+	background-image:url(Resimler/spider.png);
+	background-repeat: no-repeat;
+	background-size: 150px 150px;
+	background-position:top;
+	background-attachment:fixed;
+	
+	
+		
+	}
+h1 {
+	color:#F60;
+	font-size:36px;
+	text-decoration:blink;
+	}
+p {
+	color:#903;
+	font-size:14px;
+	}
+
+.sarıyazi{
+	color:#CF0;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+	}

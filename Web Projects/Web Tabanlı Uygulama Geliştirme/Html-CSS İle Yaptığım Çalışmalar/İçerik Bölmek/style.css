@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin: 0; /* sayfa arama çubuğuna sıfırlar */
+    padding: 0; /* iç boşluk */
+}
+
+.ana {
+    width: 960px;
+    height: auto;
+    background-color: #6999;
+    margin: auto; /* ana divi sayfada yatayda ortalar */
+}
+
+.ust {
+    width: 100%;
+    height: 150px;
+    background-color: #FF0;
+    margin-bottom: 10px;
+}
+
+.sol {
+    width: 70%;
+    height: 500px;
+    background-color: #C60;
+    float: left;
+}
+
+.sag {
+    width: 30%;
+    height: 500px;
+    background-color: #9C0;
+    float: left;
+}
+
+.alt {
+    width: 100%;
+    height: 100px;
+    background-color: #666;
+    float: left;
+    margin-top: 10px;
+}
